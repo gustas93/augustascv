@@ -1,0 +1,39 @@
+.nuotrauka{
+    width: 200px;
+    transform: rotate(45deg);
+    border: solid 1px #fff;
+    clip: rect(50px,136px,173px,10px);
+    position: absolute;
+    margin-left: 35px;
+}
+img{
+    width: 100%;
+    transform: rotate(-45deg);
+}
+
+.aukstis{
+    height: 200px;
+}
+.vardas{
+    color: #fff;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    font-weight: 600;
+}
+.line{
+    border-top: solid 1px #fff;
+    width: 100%;
+    padding: 0;
+}
+.kalbos{
+    color: #fff;
+}
+li{
+    margin-bottom: 5px;
+}
+.pagrindinis{
+    font-weight: 600;
+}
